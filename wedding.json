@@ -1,0 +1,104 @@
+{
+  "theme": "classic",
+
+  "couple": {
+    "partner1": "Eleanor",
+    "partner2": "James",
+    "date_display": "21st of June, 2025",
+    "date_machine": "2025-06-21",
+    "ceremony_time": "13:30",
+    "date_footer": "21 · VI · 2025",
+    "venue": "The Orangery, Kensington Palace, London",
+    "welcome_message": "To our dearest family and friends — welcome. Today we begin a new chapter, and we could not imagine sharing it with anyone but you."
+  },
+
+  "story": {
+    "paragraphs": [
+      "It was a grey Tuesday in October 2019 when <em>Eleanor first spotted James</em> across a crowded coffee shop in Notting Hill. He was reading the wrong Murakami — she couldn't help herself.",
+      "What began as a gentle correction became a two-hour conversation, which became a walk through Holland Park, which became dinner, which became everything.",
+      "They discovered a shared love of <em>early mornings, slow Sundays</em>, and arguing about who makes better scrambled eggs. (It's Eleanor. James still insists otherwise.)",
+      "In the summer of 2022, James proposed on a wooden bridge in the Cotswolds — the very spot where they'd spent their first weekend away. Eleanor said yes before he'd finished asking.",
+      "<em>Thank you for being part of this day.</em>"
+    ],
+    "photos": [
+      {
+        "url": "https://images.unsplash.com/photo-1537633552985-df8429e8048b?w=800&q=80",
+        "caption": "Cotswolds, Summer 2022"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?w=800&q=80",
+        "caption": "Our engagement evening"
+      }
+    ],
+    "stats": [
+      { "number": "2019", "label": "Year We Met" },
+      { "number": "5+",   "label": "Years Together" },
+      { "number": "∞",    "label": "Adventures Ahead" }
+    ]
+  },
+
+  "seating": [
+    { "table": "Table 1 — The Rose Table",     "name": "Margaret Ashford",    "dietary": "" },
+    { "table": "Table 1 — The Rose Table",     "name": "Robert Ashford",      "dietary": "" },
+    { "table": "Table 1 — The Rose Table",     "name": "Diana Whitmore",      "dietary": "" },
+    { "table": "Table 1 — The Rose Table",     "name": "Charles Whitmore",    "dietary": "" },
+    { "table": "Table 1 — The Rose Table",     "name": "Grandma Rose",        "dietary": "V" },
+    { "table": "Table 1 — The Rose Table",     "name": "Grandfather William", "dietary": "" },
+    { "table": "Table 2 — The Lily Table",     "name": "Sophie Hartley",      "dietary": "" },
+    { "table": "Table 2 — The Lily Table",     "name": "Mia Hartley",         "dietary": "" },
+    { "table": "Table 2 — The Lily Table",     "name": "Charlotte Webb",      "dietary": "V" },
+    { "table": "Table 2 — The Lily Table",     "name": "Isabelle Chen",       "dietary": "VG" },
+    { "table": "Table 2 — The Lily Table",     "name": "Freya Lawson",        "dietary": "" },
+    { "table": "Table 2 — The Lily Table",     "name": "Amara Osei",          "dietary": "" },
+    { "table": "Table 3 — The Wisteria Table", "name": "Oliver Bennett",      "dietary": "" },
+    { "table": "Table 3 — The Wisteria Table", "name": "Harry Clarke",        "dietary": "" },
+    { "table": "Table 3 — The Wisteria Table", "name": "Liam Foster",         "dietary": "" },
+    { "table": "Table 3 — The Wisteria Table", "name": "Noah Patel",          "dietary": "V" },
+    { "table": "Table 3 — The Wisteria Table", "name": "Ethan Morgan",        "dietary": "" },
+    { "table": "Table 3 — The Wisteria Table", "name": "Jack Reynolds",       "dietary": "" },
+    { "table": "Table 4 — The Lavender Table", "name": "Dr. Sarah Mills",     "dietary": "" },
+    { "table": "Table 4 — The Lavender Table", "name": "Prof. David Mills",   "dietary": "" },
+    { "table": "Table 4 — The Lavender Table", "name": "Rachel Stone",        "dietary": "V" },
+    { "table": "Table 4 — The Lavender Table", "name": "Tom Stone",           "dietary": "" },
+    { "table": "Table 4 — The Lavender Table", "name": "Lucy Fitzgerald",     "dietary": "" },
+    { "table": "Table 4 — The Lavender Table", "name": "Sam Fitzgerald",      "dietary": "" },
+    { "table": "Table 5 — The Jasmine Table",  "name": "Chloe Richards",      "dietary": "" },
+    { "table": "Table 5 — The Jasmine Table",  "name": "Grace Thompson",      "dietary": "VG" },
+    { "table": "Table 5 — The Jasmine Table",  "name": "Lily Evans",          "dietary": "" },
+    { "table": "Table 5 — The Jasmine Table",  "name": "Zara Williams",       "dietary": "" },
+    { "table": "Table 5 — The Jasmine Table",  "name": "Natalie Scott",       "dietary": "" },
+    { "table": "Table 5 — The Jasmine Table",  "name": "Hannah Baker",        "dietary": "V" },
+    { "table": "Table 6 — The Orchid Table",   "name": "Phillip Carr",        "dietary": "" },
+    { "table": "Table 6 — The Orchid Table",   "name": "Diana Carr",          "dietary": "" },
+    { "table": "Table 6 — The Orchid Table",   "name": "Max Carr",            "dietary": "" },
+    { "table": "Table 6 — The Orchid Table",   "name": "Josephine Grey",      "dietary": "V" },
+    { "table": "Table 6 — The Orchid Table",   "name": "Arthur Grey",         "dietary": "" },
+    { "table": "Table 6 — The Orchid Table",   "name": "Beatrice Grey",       "dietary": "" }
+  ],
+
+  "menu": [
+    { "course": "Canapés on Arrival",  "dish": "Smoked Salmon Blini",          "description": "Scottish smoked salmon, crème fraîche, micro dill, golden caviar",           "dietary": "" },
+    { "course": "Canapés on Arrival",  "dish": "Wild Mushroom Tartlet",        "description": "Woodland mushroom duxelles, aged comté, fresh thyme",                         "dietary": "V" },
+    { "course": "Canapés on Arrival",  "dish": "Prawn & Avocado Shot",         "description": "Cornish prawns, avocado cream, compressed cucumber, chilli oil",              "dietary": "" },
+    { "course": "First Course",        "dish": "Seared Hand-Dived Scallops",   "description": "Celeriac velouté, crispy Parma ham, apple gel, hazelnut crumb",               "dietary": "" },
+    { "course": "First Course",        "dish": "Garden Pea & Mint Velouté",    "description": "Jersey cream, pea shoots, truffle oil, sourdough crisp",                      "dietary": "V" },
+    { "course": "Main Course",         "dish": "Roast Beef Tenderloin",        "description": "28-day dry-aged fillet, dauphinoise potato, wilted spinach, red wine jus",    "dietary": "" },
+    { "course": "Main Course",         "dish": "Pan-Roasted Halibut",          "description": "Saffron beurre blanc, samphire, new potato, roasted cherry tomato",            "dietary": "" },
+    { "course": "Main Course",         "dish": "Heritage Beetroot Wellington", "description": "Puy lentil & walnut duxelles, golden pastry, cashew cream",                    "dietary": "VG" },
+    { "course": "Dessert",             "dish": "The Wedding Cake",             "description": "Three-tier champagne & elderflower, lemon curd, Italian meringue buttercream", "dietary": "" },
+    { "course": "Dessert",             "dish": "Dark Chocolate Fondant",       "description": "Valrhona 70% dark chocolate, salted caramel centre, clotted cream ice cream",  "dietary": "" },
+    { "course": "Dessert",             "dish": "Petit Fours",                  "description": "Lavender macarons, salted caramel bonbons, fresh strawberry tartlets",          "dietary": "" }
+  ],
+
+  "timeline": [
+    { "time": "12:30 PM", "sort": "12:30", "event": "Guests Arrive",           "description": "Welcome drinks and canapés are served in the garden. Please find your seat in the ceremony room by 1:15 PM." },
+    { "time": "1:30 PM",  "sort": "13:30", "event": "The Ceremony",            "description": "Eleanor and James exchange vows in the Great Hall. Please be seated promptly — photography begins as the bride enters." },
+    { "time": "2:15 PM",  "sort": "14:15", "event": "Confetti & Photographs",  "description": "Please make your way to the south garden for group photographs and the confetti send-off." },
+    { "time": "3:00 PM",  "sort": "15:00", "event": "Drinks Reception",        "description": "Champagne, Pimm's and soft drinks are served on the terrace. A string quartet will perform throughout." },
+    { "time": "4:30 PM",  "sort": "16:30", "event": "Wedding Breakfast",       "description": "Guests are invited to take their seats for a four-course dinner. Please refer to the seating plan to find your table." },
+    { "time": "7:00 PM",  "sort": "19:00", "event": "Speeches & Toast",        "description": "Speeches from the best man, father of the bride, and the groom. A champagne toast will follow." },
+    { "time": "7:45 PM",  "sort": "19:45", "event": "Cake Cutting",            "description": "The first cut of the three-tier wedding cake, followed by dessert service and petit fours." },
+    { "time": "8:30 PM",  "sort": "20:30", "event": "Evening Reception",       "description": "Evening guests arrive. The first dance opens the ballroom floor, followed by live music from The Kensington Quartet." },
+    { "time": "11:59 PM", "sort": "23:59", "event": "Last Dance & Farewell",   "description": "The final song of the evening, followed by a sparkler send-off for Eleanor and James. Carriages at midnight." }
+  ]
+}
